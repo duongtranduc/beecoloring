@@ -9,7 +9,7 @@
 			<string>Editor</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>***Your bundle ID***</string>
+				<string>com.apolloplanet.beecoloring</string>
 			</array>
 		</dict>
 		<dict>
@@ -25,7 +25,7 @@
 			<string>Editor</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>***Something here***</string>
+				<string>com.apolloplanet.beecoloring</string>
 			</array>
 		</dict>
 	</array>
