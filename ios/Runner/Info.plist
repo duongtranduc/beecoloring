@@ -17,7 +17,7 @@
 			<string>Editor</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>com.googleusercontent.apps.470914908801-kenuqf4uceqf5o24t966h0tq5sj11ccv</string>
+				<string>com.apolloplanet.beecoloring</string>
 			</array>
 		</dict>
 		<dict>
@@ -53,6 +53,10 @@
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
 	<string>Main</string>
+	<key>NSLocationAlwaysUsageDescription</key> 
+	<string>For usage statistic</string> 
+	<key>NSLocationWhenInUseUsageDescription</key> 
+	<string>For usage statistic</string>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
@@ -68,9 +72,5 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
-	<key>NSLocationAlwaysUsageDescription</key> 
-	<string>To do the usage statistic</string> 
-	<key>NSLocationWhenInUseUsageDescription</key> 
-	<string>To do the usage statistic</string>
 </dict>
 </plist>
