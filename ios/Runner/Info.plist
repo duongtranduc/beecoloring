@@ -53,10 +53,6 @@
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
 	<string>Main</string>
-	<key>NSLocationAlwaysUsageDescription</key> 
-	<string>For usage statistic</string> 
-	<key>NSLocationWhenInUseUsageDescription</key> 
-	<string>For usage statistic</string>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
@@ -72,5 +68,10 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>For usge statistic</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>For usage statistic</string>
+	
 </dict>
 </plist>
